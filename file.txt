@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
  this is vimal 
 feature code1
 
+=======
+this is vimal 
+awsdevops
+>>>>>>> Stashed changes
